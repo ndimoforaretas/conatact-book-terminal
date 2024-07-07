@@ -1,0 +1,16 @@
+{
+  "name": "conatact-book-terminal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contacts.js",
+  "type": "module",
+  "scripts": {
+    "start": "node contacts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
