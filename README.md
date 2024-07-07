@@ -1,5 +1,7 @@
 # Contact Book
 
+![Contact Book Screenshot](contact-book.png)
+
 Welcome to the Contact Book!
 This is a simple interactive terminal application where you can manage your contacts.
 It helps you practice JavaScript concepts such as objects, arrays, functions, loops, conditionals, and user input handling.
